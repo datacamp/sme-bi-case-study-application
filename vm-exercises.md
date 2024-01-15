@@ -13,8 +13,8 @@
 
 #### Files
 
-- [ ] **Initial**: Add file to the `exercises/`  folder with the name `ex-1-intial.twbx` or `ex-1-intial.pbix`, depending if you are auditioning for a Tableau or Power BI course.
-- [ ] **Solution**: Add file to the `exercises/`  folder with the name `ex-1-sol.twbx` or `ex-1-sol.pbix`
+- [ ] **Initial**: Add file to the `exercises/`  folder with the name `ex-1-intial.twbx` or `ex-1-intial.pbix` or `ex-1-initial.yxmd`, depending if you are auditioning for a Tableau or Power BI course.
+- [ ] **Solution**: Add file to the `exercises/`  folder with the name `ex-1-sol.twbx` or `ex-1-sol.pbix` or `ex-1-sol.yxmd`
 
 #### Learning Objective
 
@@ -44,7 +44,7 @@ You can look at the same [exercise]([url](https://campus.datacamp.com/courses/ca
 ## Finalized Workbook
 
 #### Files
-You can upload your final workbook in the exercises folder as `ex-final-sol.twbx` or `ex-final-sol.pbix`.
+You can upload your final workbook in the exercises folder as `ex-final-sol.twbx` or `ex-final-sol.pbix` or `ex-1-sol.yxmd`.
 
 #### Explanation & Description
 Which answers will the learner be able to solve once building this? How does it fit in the bigger picture?
